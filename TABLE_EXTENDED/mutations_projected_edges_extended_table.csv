@@ -1,0 +1,458 @@
+,0,1,2
+0,ang,setx,1
+1,c9orf72,hxliur,12
+2,c9orf72,NKX6.1,30
+3,c9orf72,hxaxtr,2
+4,c9orf72,ISL1,30
+5,c9orf72,hxblbsw,5
+6,c9orf72,NEFH (SMI32),30
+7,c9orf72,hxli,27
+8,c9orf72,hxblb,23
+9,c9orf72,hxliuarm,4
+10,c9orf72,hxlill,9
+11,c9orf72,TUBB3 (TuJ1),30
+12,c9orf72,mutot,2
+13,c9orf72,hxlilft,13
+14,c9orf72,hxlilr,9
+15,c9orf72,hxliuhnd,17
+16,c9orf72,hxliul,10
+17,c9orf72,hxax,2
+18,c9orf72,s100b,30
+19,c9orf72,hxaxtrrp,2
+20,c9orf72,pavyn,3
+21,c9orf72,hxlil,14
+22,c9orf72,hxlilleg,3
+23,c9orf72,hxblbsch,22
+24,c9orf72,trachrsn,3
+25,c9orf72,hxliu,17
+26,c9orf72,Nestin,22
+27,fus,hxliu,1
+28,fus,hxliur,1
+29,fus,hxax,1
+30,fus,pavyn,1
+31,fus,hxli,1
+32,fus,hxliuarm,1
+33,fus,mutot,1
+34,fus,hxaxnk,1
+35,mutot,hxliur,2
+36,mutot,NKX6.1,2
+37,mutot,ISL1,2
+38,mutot,hxli,8
+39,mutot,NEFH (SMI32),2
+40,mutot,hxblb,1
+41,mutot,hxliuarm,1
+42,mutot,hxlill,3
+43,mutot,TUBB3 (TuJ1),2
+44,mutot,hxlilft,1
+45,mutot,hxlilr,3
+46,mutot,s100b,2
+47,mutot,pavyn,1
+48,mutot,hxlil,6
+49,mutot,sod1,1
+50,mutot,hxlilleg,3
+51,mutot,hxblbsch,1
+52,mutot,hxliu,2
+53,mutot,Nestin,2
+54,setx,hxliur,1
+55,setx,NKX6.1,2
+56,setx,ISL1,2
+57,setx,hxli,4
+58,setx,NEFH (SMI32),2
+59,setx,hxliuarm,1
+60,setx,hxlill,3
+61,setx,TUBB3 (TuJ1),2
+62,setx,hxlilft,3
+63,setx,hxaxnk,1
+64,setx,hxliuhnd,1
+65,setx,hxliul,1
+66,setx,hxlilr,4
+67,setx,hxax,1
+68,setx,s100b,1
+69,setx,hxlil,4
+70,setx,sod1,1
+71,setx,hxlilleg,3
+72,setx,hxliu,1
+73,setx,Nestin,1
+74,sod1,hxliur,4
+75,sod1,NKX6.1,10
+76,sod1,hxaxtr,1
+77,sod1,ISL1,10
+78,sod1,hxli,15
+79,sod1,NEFH (SMI32),10
+80,sod1,hxliuarm,2
+81,sod1,hxlill,3
+82,sod1,TUBB3 (TuJ1),10
+83,sod1,hxlilft,4
+84,sod1,hxlilr,10
+85,sod1,hxliuhnd,4
+86,sod1,hxliul,3
+87,sod1,hxax,1
+88,sod1,hxaxtrrp,1
+89,sod1,s100b,10
+90,sod1,pavyn,1
+91,sod1,hxlil,11
+92,sod1,hxlilleg,6
+93,sod1,trachrsn,1
+94,sod1,hxliu,6
+95,sod1,Nestin,10
+96,tdp43,hxliur,2
+97,tdp43,NKX6.1,1
+98,tdp43,ISL1,1
+99,tdp43,hxblbsw,1
+100,tdp43,hxli,2
+101,tdp43,NEFH (SMI32),1
+102,tdp43,hxblb,1
+103,tdp43,hxliuarm,1
+104,tdp43,TUBB3 (TuJ1),1
+105,tdp43,hxliuhnd,1
+106,tdp43,s100b,1
+107,tdp43,pavyn,1
+108,tdp43,hxblbsch,1
+109,tdp43,trachrsn,1
+110,tdp43,hxliu,2
+111,tdp43,Nestin,1
+112,vcp,hxlil,1
+113,vcp,hxli,1
+114,vcp,hxlilft,1
+115,vcp,hxlill,1
+116,vcp,hxlilr,1
+117,hxax,hxgen,1
+118,hxax,hxliur,11
+119,hxax,NKX6.1,20
+120,hxax,hxaxtr,23
+121,hxax,ISL1,23
+122,hxax,hxblbsw,5
+123,hxax,hxli,17
+124,hxax,NEFH (SMI32),23
+125,hxax,hxblb,8
+126,hxax,hxliuarm,12
+127,hxax,hxlill,14
+128,hxax,TUBB3 (TuJ1),20
+129,hxax,hxlilft,11
+130,hxax,hxaxnk,15
+131,hxax,hxliuhnd,13
+132,hxax,hxliul,14
+133,hxax,hxlilr,10
+134,hxax,hxaxtrrp,14
+135,hxax,s100b,21
+136,hxax,pavyn,3
+137,hxax,hxlil,14
+138,hxax,hxlilleg,10
+139,hxax,hxblbsch,8
+140,hxax,trachrsn,2
+141,hxax,hxliu,15
+142,hxax,Nestin,18
+143,hxaxnk,hxliur,7
+144,hxaxnk,NKX6.1,8
+145,hxaxnk,hxaxtr,2
+146,hxaxnk,ISL1,10
+147,hxaxnk,hxblbsw,1
+148,hxaxnk,hxli,9
+149,hxaxnk,NEFH (SMI32),10
+150,hxaxnk,hxblb,2
+151,hxaxnk,hxliuarm,7
+152,hxaxnk,hxlill,7
+153,hxaxnk,TUBB3 (TuJ1),8
+154,hxaxnk,hxlilft,6
+155,hxaxnk,hxliuhnd,8
+156,hxaxnk,hxliul,8
+157,hxaxnk,hxlilr,7
+158,hxaxnk,s100b,8
+159,hxaxnk,hxlil,7
+160,hxaxnk,hxlilleg,6
+161,hxaxnk,hxblbsch,2
+162,hxaxnk,hxliu,9
+163,hxaxnk,Nestin,8
+164,hxaxtr,hxgen,1
+165,hxaxtr,hxliur,4
+166,hxaxtr,NKX6.1,14
+167,hxaxtr,ISL1,15
+168,hxaxtr,hxblbsw,3
+169,hxaxtr,hxli,8
+170,hxaxtr,NEFH (SMI32),15
+171,hxaxtr,hxblb,5
+172,hxaxtr,hxliuarm,5
+173,hxaxtr,hxlill,7
+174,hxaxtr,TUBB3 (TuJ1),14
+175,hxaxtr,hxlilft,5
+176,hxaxtr,hxliuhnd,5
+177,hxaxtr,hxliul,6
+178,hxaxtr,hxlilr,3
+179,hxaxtr,hxaxtrrp,14
+180,hxaxtr,s100b,15
+181,hxaxtr,pavyn,3
+182,hxaxtr,hxlil,7
+183,hxaxtr,hxlilleg,4
+184,hxaxtr,hxblbsch,5
+185,hxaxtr,trachrsn,2
+186,hxaxtr,hxliu,6
+187,hxaxtr,Nestin,12
+188,hxaxtrrp,hxgen,1
+189,hxaxtrrp,hxliur,1
+190,hxaxtrrp,NKX6.1,9
+191,hxaxtrrp,ISL1,9
+192,hxaxtrrp,hxblbsw,3
+193,hxaxtrrp,hxli,3
+194,hxaxtrrp,NEFH (SMI32),9
+195,hxaxtrrp,hxblb,4
+196,hxaxtrrp,hxliuarm,2
+197,hxaxtrrp,hxlill,3
+198,hxaxtrrp,TUBB3 (TuJ1),9
+199,hxaxtrrp,hxlilft,2
+200,hxaxtrrp,hxlilr,1
+201,hxaxtrrp,hxliuhnd,3
+202,hxaxtrrp,hxliul,3
+203,hxaxtrrp,s100b,9
+204,hxaxtrrp,pavyn,3
+205,hxaxtrrp,hxlil,3
+206,hxaxtrrp,hxlilleg,1
+207,hxaxtrrp,hxblbsch,4
+208,hxaxtrrp,trachrsn,2
+209,hxaxtrrp,hxliu,3
+210,hxaxtrrp,Nestin,7
+211,hxblb,hxliur,12
+212,hxblb,NKX6.1,92
+213,hxblb,ISL1,94
+214,hxblb,hxblbsw,43
+215,hxblb,NEFH (SMI32),94
+216,hxblb,hxli,29
+217,hxblb,hxliuarm,13
+218,hxblb,hxlill,13
+219,hxblb,TUBB3 (TuJ1),92
+220,hxblb,hxlilft,9
+221,hxblb,hxliuhnd,18
+222,hxblb,hxliul,18
+223,hxblb,hxlilr,14
+224,hxblb,s100b,94
+225,hxblb,pavyn,11
+226,hxblb,hxlil,18
+227,hxblb,hxlilleg,12
+228,hxblb,hxblbsch,210
+229,hxblb,trachrsn,8
+230,hxblb,hxliu,23
+231,hxblb,Nestin,78
+232,hxblbsch,hxliur,12
+233,hxblbsch,NKX6.1,85
+234,hxblbsch,ISL1,87
+235,hxblbsch,hxblbsw,30
+236,hxblbsch,NEFH (SMI32),87
+237,hxblbsch,hxli,26
+238,hxblbsch,hxliuarm,12
+239,hxblbsch,hxlill,12
+240,hxblbsch,TUBB3 (TuJ1),85
+241,hxblbsch,hxlilft,9
+242,hxblbsch,hxliuhnd,17
+243,hxblbsch,hxliul,16
+244,hxblbsch,hxlilr,13
+245,hxblbsch,s100b,87
+246,hxblbsch,pavyn,10
+247,hxblbsch,hxlil,16
+248,hxblbsch,hxlilleg,11
+249,hxblbsch,trachrsn,8
+250,hxblbsch,hxliu,21
+251,hxblbsch,Nestin,72
+252,hxblbsw,hxliur,5
+253,hxblbsw,NKX6.1,21
+254,hxblbsw,ISL1,21
+255,hxblbsw,NEFH (SMI32),21
+256,hxblbsw,hxli,12
+257,hxblbsw,hxliuarm,6
+258,hxblbsw,hxlill,7
+259,hxblbsw,TUBB3 (TuJ1),21
+260,hxblbsw,hxlilft,7
+261,hxblbsw,hxliuhnd,8
+262,hxblbsw,hxliul,8
+263,hxblbsw,hxlilr,8
+264,hxblbsw,s100b,21
+265,hxblbsw,pavyn,2
+266,hxblbsw,hxlil,10
+267,hxblbsw,hxlilleg,8
+268,hxblbsw,trachrsn,1
+269,hxblbsw,hxliu,10
+270,hxblbsw,Nestin,14
+271,hxgen,NKX6.1,1
+272,hxgen,ISL1,1
+273,hxgen,hxli,3
+274,hxgen,NEFH (SMI32),1
+275,hxgen,hxlill,1
+276,hxgen,TUBB3 (TuJ1),1
+277,hxgen,hxlilft,2
+278,hxgen,hxlilr,2
+279,hxgen,hxliuhnd,1
+280,hxgen,hxliul,1
+281,hxgen,s100b,1
+282,hxgen,pavyn,1
+283,hxgen,hxlil,3
+284,hxgen,hxliu,1
+285,hxgen,Nestin,1
+286,hxli,hxliur,207
+287,hxli,ISL1,266
+288,hxli,hxlill,235
+289,hxli,TUBB3 (TuJ1),261
+290,hxli,hxliul,205
+291,hxli,pavyn,30
+292,hxli,hxlil,371
+293,hxli,hxliu,356
+294,hxli,Nestin,229
+295,hxli,NKX6.1,261
+296,hxli,NEFH (SMI32),266
+297,hxli,hxliuarm,130
+298,hxli,hxlilft,205
+299,hxli,hxliuhnd,237
+300,hxli,s100b,256
+301,hxli,hxlilleg,144
+302,hxli,trachrsn,18
+303,hxli,hxlilr,201
+304,hxlil,hxliur,37
+305,hxlil,ISL1,138
+306,hxlil,hxlill,235
+307,hxlil,TUBB3 (TuJ1),136
+308,hxlil,hxliul,40
+309,hxlil,pavyn,16
+310,hxlil,hxliu,53
+311,hxlil,Nestin,118
+312,hxlil,NKX6.1,136
+313,hxlil,NEFH (SMI32),138
+314,hxlil,hxliuarm,34
+315,hxlil,hxlilft,205
+316,hxlil,hxliuhnd,36
+317,hxlil,s100b,133
+318,hxlil,hxlilleg,144
+319,hxlil,trachrsn,9
+320,hxlil,hxlilr,201
+321,hxlilft,hxliur,17
+322,hxlilft,ISL1,83
+323,hxlilft,hxlill,128
+324,hxlilft,TUBB3 (TuJ1),82
+325,hxlilft,hxliul,23
+326,hxlilft,pavyn,12
+327,hxlilft,hxliu,28
+328,hxlilft,Nestin,71
+329,hxlilft,NKX6.1,82
+330,hxlilft,NEFH (SMI32),83
+331,hxlilft,hxliuarm,19
+332,hxlilft,hxliuhnd,25
+333,hxlilft,s100b,78
+334,hxlilft,hxlilleg,33
+335,hxlilft,trachrsn,8
+336,hxlilft,hxlilr,106
+337,hxlill,hxliur,28
+338,hxlill,ISL1,87
+339,hxlill,TUBB3 (TuJ1),84
+340,hxlill,hxliul,39
+341,hxlill,pavyn,11
+342,hxlill,hxliu,40
+343,hxlill,Nestin,72
+344,hxlill,NKX6.1,84
+345,hxlill,NEFH (SMI32),87
+346,hxlill,hxliuarm,28
+347,hxlill,hxliuhnd,28
+348,hxlill,s100b,83
+349,hxlill,hxlilleg,99
+350,hxlill,trachrsn,5
+351,hxlill,hxlilr,89
+352,hxlilleg,hxliur,32
+353,hxlilleg,NKX6.1,53
+354,hxlilleg,ISL1,57
+355,hxlilleg,NEFH (SMI32),57
+356,hxlilleg,hxliuarm,29
+357,hxlilleg,TUBB3 (TuJ1),53
+358,hxlilleg,hxliuhnd,25
+359,hxlilleg,hxliul,31
+360,hxlilleg,hxlilr,100
+361,hxlilleg,s100b,53
+362,hxlilleg,pavyn,1
+363,hxlilleg,trachrsn,1
+364,hxlilleg,hxliu,38
+365,hxlilleg,Nestin,47
+366,hxlilr,hxliur,34
+367,hxlilr,ISL1,75
+368,hxlilr,TUBB3 (TuJ1),71
+369,hxlilr,hxliul,30
+370,hxlilr,pavyn,5
+371,hxlilr,hxliu,38
+372,hxlilr,Nestin,63
+373,hxlilr,NKX6.1,71
+374,hxlilr,NEFH (SMI32),75
+375,hxlilr,hxliuarm,27
+376,hxlilr,hxliuhnd,29
+377,hxlilr,s100b,69
+378,hxlilr,trachrsn,4
+379,hxliu,hxliur,207
+380,hxliu,ISL1,154
+381,hxliu,TUBB3 (TuJ1),148
+382,hxliu,hxliul,205
+383,hxliu,pavyn,16
+384,hxliu,Nestin,131
+385,hxliu,NKX6.1,148
+386,hxliu,NEFH (SMI32),154
+387,hxliu,hxliuarm,130
+388,hxliu,hxliuhnd,237
+389,hxliu,s100b,147
+390,hxliu,trachrsn,10
+391,hxliuarm,hxliur,81
+392,hxliuarm,ISL1,64
+393,hxliuarm,TUBB3 (TuJ1),59
+394,hxliuarm,hxliul,90
+395,hxliuarm,pavyn,5
+396,hxliuarm,Nestin,57
+397,hxliuarm,NKX6.1,59
+398,hxliuarm,NEFH (SMI32),64
+399,hxliuarm,hxliuhnd,39
+400,hxliuarm,s100b,61
+401,hxliuarm,trachrsn,3
+402,hxliuhnd,hxliur,147
+403,hxliuhnd,NKX6.1,99
+404,hxliuhnd,ISL1,105
+405,hxliuhnd,NEFH (SMI32),105
+406,hxliuhnd,TUBB3 (TuJ1),99
+407,hxliuhnd,hxliul,128
+408,hxliuhnd,s100b,98
+409,hxliuhnd,pavyn,9
+410,hxliuhnd,trachrsn,7
+411,hxliuhnd,Nestin,88
+412,hxliul,hxliur,70
+413,hxliul,NKX6.1,82
+414,hxliul,ISL1,87
+415,hxliul,NEFH (SMI32),87
+416,hxliul,TUBB3 (TuJ1),82
+417,hxliul,s100b,82
+418,hxliul,pavyn,9
+419,hxliul,trachrsn,5
+420,hxliul,Nestin,73
+421,hxliur,ISL1,92
+422,hxliur,TUBB3 (TuJ1),87
+423,hxliur,pavyn,10
+424,hxliur,Nestin,76
+425,hxliur,NKX6.1,87
+426,hxliur,NEFH (SMI32),92
+427,hxliur,s100b,86
+428,hxliur,trachrsn,6
+429,NEFH (SMI32),ISL1,421
+430,NEFH (SMI32),TUBB3 (TuJ1),412
+431,NEFH (SMI32),pavyn,19
+432,NEFH (SMI32),Nestin,354
+433,NEFH (SMI32),NKX6.1,412
+434,NEFH (SMI32),s100b,406
+435,NEFH (SMI32),trachrsn,15
+436,ISL1,TUBB3 (TuJ1),412
+437,ISL1,pavyn,19
+438,ISL1,Nestin,354
+439,ISL1,NKX6.1,412
+440,ISL1,s100b,406
+441,ISL1,trachrsn,15
+442,NKX6.1,TUBB3 (TuJ1),416
+443,NKX6.1,pavyn,19
+444,NKX6.1,Nestin,349
+445,NKX6.1,s100b,406
+446,NKX6.1,trachrsn,15
+447,TUBB3 (TuJ1),pavyn,19
+448,TUBB3 (TuJ1),Nestin,349
+449,TUBB3 (TuJ1),s100b,406
+450,TUBB3 (TuJ1),trachrsn,15
+451,s100b,pavyn,18
+452,s100b,Nestin,353
+453,s100b,trachrsn,14
+454,Nestin,pavyn,15
+455,Nestin,trachrsn,14
+456,trachrsn,pavyn,13
