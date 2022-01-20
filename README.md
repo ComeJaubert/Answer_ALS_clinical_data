@@ -6,6 +6,11 @@ All the clinical / metadata data is available here: https://data.answerals.org/h
 For precision on dataset : 
 [AnswerALS.pdf](https://github.com/ComeJaubert/Answer_ALS_clinical_data/files/7904627/AnswerALS.pdf)
 
+2 notebooks : 
+Exploration: EDA and build a simple TABLE of patients and mutations.
+Table_extended : build the TABLE with all the variables (shown in the presentation).
+
+In the folder, all .csv files and cytoscape graph.
 
 # Searching possible clusters / patterns / special patients.
     
